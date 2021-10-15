@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { fieldValidations, formValidation } from "../../utls/formValidations";
+import { fieldValidations, formValidation } from "../../utils/formValidations";
 
 const Signup = () => {
   const ageGroupOptions = [
